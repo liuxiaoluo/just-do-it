@@ -3,3 +3,9 @@ rt_err_t TimerCallback(rt_device_t dev, rt_size_t size)
 {
     return 0;
 }
+
+
+int main(void)
+{
+	return;
+}
